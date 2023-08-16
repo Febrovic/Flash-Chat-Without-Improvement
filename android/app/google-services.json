@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "166633599434",
+    "project_id": "flash-chat-30009",
+    "storage_bucket": "flash-chat-30009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166633599434:android:64339297d26f767ea59f33",
+        "android_client_info": {
+          "package_name": "co.febrovic.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166633599434-8amk3fi0c9hmienkm9a82ejn22m4cmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIq4eNmjx2MtYY44P-QDfAzq1vRxxDeAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166633599434-8amk3fi0c9hmienkm9a82ejn22m4cmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166633599434:android:50cc42b2c85c08bea59f33",
+        "android_client_info": {
+          "package_name": "com.febrovic.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166633599434-8amk3fi0c9hmienkm9a82ejn22m4cmr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIq4eNmjx2MtYY44P-QDfAzq1vRxxDeAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166633599434-8amk3fi0c9hmienkm9a82ejn22m4cmr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
